@@ -16,7 +16,6 @@ dist/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
 
 # VS Code
 .vscode/
@@ -28,10 +27,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Other
-*.sqlite
-*.db
-*.bak
-*.tmp
-*.swp
